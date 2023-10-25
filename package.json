@@ -1,0 +1,28 @@
+{
+  "name": "account_abstraction",
+  "version": "1.0.0",
+  "description": "A demonstration of Etherium account abstraction in various scenarios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "account test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nubawie/account_abstraction.git"
+  },
+  "keywords": [
+    "\"ethereum\"",
+    "\"account-abstraction\"",
+    "\"blockchain\""
+  ],
+  "author": "nubawie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nubawie/account_abstraction/issues"
+  },
+  "homepage": "https://github.com/nubawie/account_abstraction#readme",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "web3": "^4.2.0"
+  }
+}
